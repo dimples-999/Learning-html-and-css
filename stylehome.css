@@ -1,0 +1,46 @@
+h1 {
+    color:pink;
+    font-family: cursive;
+}
+
+h2{
+    color:pink;
+    font-family: cursive;
+
+}
+
+h3{color:pink;
+    font-family: cursive;
+
+}
+
+h4{
+    color: pink;
+    font-family: cursive;
+}
+
+h5{
+
+    color: pink;
+    font-family: cursive;
+}
+
+p{
+    color: pink;
+    font-family: cursive;
+}
+
+ #menu-bar a{
+    text-decoration:none;
+}
+
+a:hover{
+background-color: lightpink;
+color: white;
+font-family: cursive;
+padding: 5px;
+}
+
+a{
+    text-decoration:none;
+}

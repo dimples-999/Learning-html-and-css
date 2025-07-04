@@ -1,0 +1,13 @@
+ul{
+    list-style-type: circle;
+}
+h3 { 
+    color: pink;
+    font-family: cursive;
+}
+ol{list-style-type: upper-roman;
+}
+
+ul{
+    list-style-image: url('pointer image');
+}
